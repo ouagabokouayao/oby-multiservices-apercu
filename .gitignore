@@ -1,0 +1,11 @@
+*.sqlite
+*.sqlite3
+*.db
+*.env
+.env*
+__pycache__/
+*.pyc
+local_only/
+moteur_07_v4/
+*.zip
+.DS_Store
